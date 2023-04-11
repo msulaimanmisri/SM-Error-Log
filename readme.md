@@ -1,4 +1,5 @@
 ## About this plugin
+This plugin will make your WP_DEBUG turn into `true` and you can check in the dashboard or your `wp-content` folder the error.
 ## Todo
 * Enable Error log.
 * Make new menu in dashboard and list the error there
